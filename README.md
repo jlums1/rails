@@ -1,2 +1,0 @@
-# rails
-rails test
